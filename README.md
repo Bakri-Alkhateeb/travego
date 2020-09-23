@@ -1,7 +1,6 @@
 # travego
 
-A new Flutter application.
-
+A flutter app to make reservation for hotels, cafes, and restaurants online using the google maps feature.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
